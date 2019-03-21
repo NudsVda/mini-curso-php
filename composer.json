@@ -1,0 +1,21 @@
+{
+    "name": "ifc/meucurso",
+    "description": "Mini Curso de PHP",
+    "license": "MIT",
+    "keywords": ["php"],
+    "authors": [
+        {
+            "name": "Tiago Heineck",
+            "email": "tiago.heineck@ifc.edu.br"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    },
+    "autoload": {
+        "psr-4": {
+            "MiniCurso\\": "./src"
+        }
+    }
+}
