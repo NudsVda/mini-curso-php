@@ -2,5 +2,7 @@
 
 return [
     "host"=>'localhost',
-    "db"=>"minicurso"
+    "db"=>"minicurso",
+    "user"=>"minicurso",
+    "password"=>"minicurso"
 ];
