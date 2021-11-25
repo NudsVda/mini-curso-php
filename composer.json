@@ -8,8 +8,7 @@
             "name": "Tiago Heineck",
             "email": "tiago.heineck@ifc.edu.br"
         }
-    ],
-    "require": {},
+    ],    
     "require-dev": {
         "phpunit/phpunit": "^9"
     },
